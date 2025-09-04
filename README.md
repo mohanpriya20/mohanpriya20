@@ -14,6 +14,20 @@
 
 ---
 
+<div align="center">
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-priya-mulagapu/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/mohanpriya/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mohanpriyamulagapu@gmail.com)
+[![Featured on AI Owl](https://img.shields.io/badge/Featured%20on-AI%20Owl-FF6B35?style=for-the-badge&logo=star&logoColor=white)](https://www.aiowl.org/mohan-priya-mulagapu/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohanpriya5027/)
+
+</div>
+
+---
+
 ## About Me
 
 <div align="center">
@@ -213,20 +227,6 @@ I believe in technological advancements to the extent of **teleportation**! 🚀
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohanpriya20&theme=tokyonight&hide_border=true" alt="Activity Graph" />
-
-</div>
-
----
-
-## 📫 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-priya-mulagapu/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/mohanpriya/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mohanpriyamulagapu@gmail.com)
-[![Featured on AI Owl](https://img.shields.io/badge/Featured%20on-AI%20Owl-FF6B35?style=for-the-badge&logo=star&logoColor=white)](https://www.aiowl.org/mohan-priya-mulagapu/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohanpriya5027/)
 
 </div>
 
