@@ -1,6 +1,6 @@
 <div align="center">
 
-👋 Hello, Namaste! I'm Mohan Priya Mulagapu!
+## 👋 Hello, Namaste! I'm Mohan Priya Mulagapu!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Passionate+Software+Engineer;Full+Stack+Developer;Machine+Learning+Engineer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 
@@ -8,13 +8,13 @@
 [![GitHub followers](https://img.shields.io/github/followers/mohanpriya20?label=Follow&style=social)](https://github.com/mohanpriya20)
 
 
-Let's start creating together!
+### Let's start creating together!
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <div align="center">
 
@@ -64,7 +64,7 @@ I believe in technological advancements to the extent of **teleportation**! 🚀
 
 ## 🎯 My Projects
 
-<div align="center">
+<div align="left">
 
 ### 🔗 **All of my projects are right below this overview at [mohanpriya20](https://github.com/mohanpriya20)**
 
