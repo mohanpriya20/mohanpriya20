@@ -20,7 +20,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-priya-mulagapu/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/mohanpriya/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mohanpriyamulagapu@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohanpriyamulagapu@gmail.com)
 [![Featured on AI Owl](https://img.shields.io/badge/Featured%20on-AI%20Owl-FF6B35?style=for-the-badge&logo=star&logoColor=white)](https://www.aiowl.org/mohan-priya-mulagapu/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohanpriya5027/)
 
@@ -198,15 +198,15 @@ I believe in technological advancements to the extent of **teleportation**! 🚀
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohanpriya20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="400" height="600"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohanpriya20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars,issues" alt="GitHub Stats" width="400"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanpriya20&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="400" height="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanpriya20&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="400"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohanpriya20&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400" height="400"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohanpriya20&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/>
 
 </div>
 
