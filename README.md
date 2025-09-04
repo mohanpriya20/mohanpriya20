@@ -26,8 +26,9 @@
 <tr>
 <td width="50%">
 
-### 🎯 **What I Do**
 <div align="center">
+
+### 🎯 **What I Do**
 
 🔭 **Currently working on:**  
 Full-stack web applications and cloud solutions at **AI Owl**
@@ -40,8 +41,9 @@ Getting super strong in **DSA**, **System Design**, advanced cloud architectures
 </td>
 <td width="50%">
 
-### 🤝 **Let's Connect**
 <div align="center">
+
+### 🤝 **Let's Connect**
 
 👯 **Looking to collaborate on:**  
 Open source projects and innovative tech solutions
@@ -80,12 +82,12 @@ I believe in technological advancements to the extent of **teleportation**! 🚀
 
 ### Programming Languages
 <div align="center">
-  
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 </div>
 
