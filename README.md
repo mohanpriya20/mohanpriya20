@@ -16,10 +16,63 @@ Let's start creating together!
 
 ## 🚀 About Me
 
-- 🔭 **Currently working on:** Full-stack web applications and cloud solutions at AI Owl
-- 🌱 **Learning:** Getting super strong in DSA, System Design, advanced cloud architectures and Machine Learning
-- 👯 **Looking to collaborate on:** Open source projects and innovative tech solutions
-- ⚡ **Fun fact:** I believe in technological advancements to the extent of teleportation!
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" alt="Header" />
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🎯 **What I Do**
+<div align="center">
+
+🔭 **Currently working on:**  
+Full-stack web applications and cloud solutions at **AI Owl**
+
+🌱 **Learning:**  
+Getting super strong in **DSA**, **System Design**, advanced cloud architectures and **Machine Learning**
+
+</div>
+
+</td>
+<td width="50%">
+
+### 🤝 **Let's Connect**
+<div align="center">
+
+👯 **Looking to collaborate on:**  
+Open source projects and innovative tech solutions
+
+⚡ **Fun fact:**  
+I believe in technological advancements to the extent of **teleportation**! 🚀
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Building+the+Future+with+Code;Turning+Ideas+into+Reality;Always+Learning+Always+Growing" alt="Typing SVG" />
+
+</div>
+
+
+## 🎯 My Projects
+
+<div align="center">
+
+### 🔗 **All of my projects are right below this overview at [mohanpriya20](https://github.com/mohanpriya20)**
+
+### 📝 **Know more about me through the reactive portfolio I built in Next.js- [Portfolio](https://mohan-priya-portfolio.vercel.app/)**
+
+### 📄 **LeetCode Coding Experiences - [mohanpriya](https://leetcode.com/u/mohanpriya/)**
+
+</div>
 
 ---
 
@@ -31,7 +84,8 @@ Let's start creating together!
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 </div>
 
@@ -44,17 +98,22 @@ Let's start creating together!
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 </div>
 
 ### Backend Development
 <div align="center">
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 </div>
 
@@ -76,19 +135,33 @@ Let's start creating together!
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00B4D8?style=for-the-badge&logo=weaviate&logoColor=white)
 
 </div>
 
-### Data Science & Visualization
+### AI/ML & Data Science
 <div align="center">
 
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![SageMaker](https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white)
+
+</div>
+
+### Data Visualization & Analytics
+<div align="center">
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SSAS](https://img.shields.io/badge/SSAS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 </div>
 
@@ -96,8 +169,10 @@ Let's start creating together!
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 </div>
 
@@ -136,20 +211,6 @@ Let's start creating together!
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohanpriya20&theme=tokyonight&hide_border=true" alt="Activity Graph" />
-
-</div>
-
----
-
-## 🎯 My Projects
-
-<div align="center">
-
-### 🔗 **All of my projects are available at [mohanpriya20](https://github.com/mohanpriya20)**
-
-### 📝 **Know more about me - [Portfolio](https://mohan-priya-portfolio.vercel.app/)**
-
-### 📄 **LeetCode Coding Experiences - [mohanpriya](https://leetcode.com/u/mohanpriya/)**
 
 </div>
 
